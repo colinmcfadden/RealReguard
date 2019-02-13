@@ -1,0 +1,2 @@
+# RentReguard
+RentReguard is a simple but effective property management system built around the concept of Domain Driven Design, allowing for a portable system that can be used in a variety of environments. Propert management is rarely a streamlined or modernized product, and that is what RentReguard hope to fix. Our image is one of a secure, lighting-quick platform that is easy and enjoyable for customers and property managers alike.
